@@ -48,3 +48,21 @@
 .ins-letter-part{
     margin-top: 100px;
 }
+
+/* Feedback Part */
+.star{
+    color: orange;
+}
+.feedback-part{
+margin-top: 70px;
+margin-bottom: 70px;
+}
+
+/* Blog */
+
+.blog-part{
+    margin-top: 150px;
+    margin-bottom: 90px;
+    padding-bottom: 30px;
+    background-color: #f9f9fb;
+}
