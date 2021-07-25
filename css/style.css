@@ -1,0 +1,39 @@
+*{
+    font-family: 'Source Code Pro', monospace;
+}
+/* Header Section */
+.header-part{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+/* Navbar Section */
+.banner-part{
+    /* background-image: url(../images/footer.png); */
+    background-color: #f9f9fb;
+    
+}
+
+/* NavBar Another Part */
+.nav-sec-part{
+    margin-top: 50px;
+   
+    padding-bottom: 70px;
+   
+}
+.na-h1{
+    font-weight: bold;
+}
+
+/* Content */
+.content-part{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-title{
+    font-weight: bold;
+}
+.content-p{
+    color: rgba(0, 0, 0, 0.555);
+}
