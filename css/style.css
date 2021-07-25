@@ -37,3 +37,14 @@
 .content-p{
     color: rgba(0, 0, 0, 0.555);
 }
+
+/* Instructor Part */
+
+.ins-part{
+    background-color: #f9f9fb;
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+.ins-letter-part{
+    margin-top: 100px;
+}
