@@ -14,7 +14,9 @@
     background-color: #f9f9fb;
     
 }
-
+.logo-img{
+    max-width: 200px;
+}
 /* NavBar Another Part */
 .nav-sec-part{
     margin-top: 50px;
